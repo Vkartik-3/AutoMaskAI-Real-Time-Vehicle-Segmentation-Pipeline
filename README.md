@@ -1,11 +1,6 @@
 # AutoMaskAI: Real-Time Vehicle Segmentation Pipeline
 
 <div align="center">
-    <a href="">
-        <img alt="open-source-image"
-		src="https://img.shields.io/badge/Open%20Source%20❤%EF%B8%8F-%2325A162.svg?style=flat"
-        style="height: 30px"/>
-    </a>
     <a href="https://pytorch.org/">
         <img alt="pytorch"
         src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white&style=flat"
